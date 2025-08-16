@@ -1,0 +1,31 @@
+body {font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+}
+.info-card {
+    width: 300px;
+    margin: 100 px auto;
+    padding: 20px;
+    text-align:center;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+p {
+    color:#555;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+h1 {
+    margin: 10px 0;
+    color:#333;
+}
+a {
+    text-decoration: none;
+    color:white;
+    background: #007bff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.card a:hover {
+    background: #0056b3;
+}
